@@ -20,7 +20,7 @@ Please read the LICENSE for the licensing of WeebDNS.
 
 # Features
 
-**WeebDNS is an 'Asynchronous' DNS Enumeration Tool made with Pyt
+**WeebDNS is an 'Asynchronous' DNS Enumeration Tool made with Python3 which makes it much faster than normal Tools.**
 
 
 ## PREREQUISITES

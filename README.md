@@ -40,10 +40,19 @@ Please read the LICENSE for the licensing of WeebDNS.
 $ sudo apt-get install git python3 python3-pip -y
 ```
 
-## Getting and Running Admin-san
+## Getting and Running WeebDNS
 ```sh
 $ git clone https://github.com/WeebSec/weebdns.git
 $ cd weebdns
 $ sudo pip3 install -r requirements.txt
 $ python3 weebdns.py
 ```
+
+
+# SCREENSHOT
+![SS](https://raw.githubusercontent.com/WeebSec/weebdns/master/screenshots/20181029_213429.png)
+
+
+## Bugs and enhancements
+
+For bug reports or enhancements, please open an [issue](https://github.com/weebsec/weebdns/issues) here.

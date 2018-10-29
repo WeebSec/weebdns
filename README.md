@@ -9,7 +9,7 @@
 **ONLY DOWNLOAD IT HERE, DO NOT TRUST OTHER PLACES.**
 
 
-This is the official and only repository of the PhishX project.
+This is the official and only repository of the WeebDNS project.
 
 Written by: FuzzyRabbit - Twitter: [@rabbit_fuzzy](https://twitter.com/rabbit_fuzzy), GitHub: [@FuzzyRabbit](https://github.com/FuzzyRabbit)
 

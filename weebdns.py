@@ -7,8 +7,7 @@ import argparse
 from urllib.parse import urlparse
 
 #Creating Arguments
-parser = argparse.ArgumentParser(description='WeebDNS (>O_O)> DNS Enumeration Tool With Asynchronicity')
-parser.usage = f'{parser.prog} http(s)://example.com [options]'
+parser = argparse.ArgumentParser(description='WeebDNS (>O_O)> DNS Enumeration Tool With Asynchronicity', usage='%(prog)s http(s)://example.com [options]')
 parser.add_argument('url', help="url of target")
 parser.add_argument('--dnsapi', action='store_true', help='dns-api.org results')
 parser.add_argument('--exana', action='store_true', help='exana.io results')
@@ -182,7 +181,7 @@ def api_loop(query_option):
 if args.url.startswith(('http://','https://')):
 	target = urlparse(args.url).netloc
 else:
-	print(f'Please specify http or https:\n{parser.usage}')
+	print('Please specify http:// or https:// ')
 	exit()
 
 if args.dnsapi:

@@ -50,7 +50,7 @@ $ python3 weebdns.py
 
 
 # SCREENSHOT
-![SS](https://raw.githubusercontent.com/WeebSec/weebdns/master/screenshots/20181029_213429.png)
+![SS](https://raw.githubusercontent.com/WeebSec/weebdns/master/screenshots/weebdns.jpg)
 
 
 ## Bugs and enhancements
